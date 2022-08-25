@@ -5,3 +5,14 @@ p
     font-size: larger;
     align-self: center;
 }
+
+p2
+{
+    color: gray;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body
+{
+    background-color: darkgoldenrod;
+}
