@@ -6,13 +6,9 @@ p
     align-self: center;
 }
 
-p2
+h1
 {
     color: gray;
+    font-size: medium;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
-
-body
-{
-    background-color: darkgoldenrod;
 }
